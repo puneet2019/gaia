@@ -45,7 +45,7 @@ require (
 	github.com/spf13/pflag v1.0.10
 	github.com/spf13/viper v1.20.1
 	github.com/stretchr/testify v1.11.1
-	github.com/vektra/mockery/v2 v2.53.4
+	github.com/vektra/mockery/v2 v2.53.5
 	google.golang.org/genproto/googleapis/api v0.0.0-20251022142026-3a174f9686a8
 	google.golang.org/grpc v1.77.0
 	google.golang.org/protobuf v1.36.10
